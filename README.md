@@ -32,8 +32,8 @@ More than a collection of finished outputs, this portfolio reflects the **proces
 
 | 02 | 03 |
 |:---:|:---:|
-| 🎨 **COLOR PALETTE & TYPOGRAPHY** | 📊 **SOCIAL MEDIA INFOGRAPHICS** |
-| Personal Visual Identity | Student Burnout & Workload |
+| 🎨 **COLOR PALETTE & TYPOGRAPHY** | 🩺 NURSEALERT |
+| Personal Visual Identity | Digital Early Warning System |
 | Logo · Tagline · Typography | Information · Design · Communication |
 
 ---
