@@ -111,71 +111,89 @@ This activity taught me that effective visual identity is not simply about choos
 ---
 
 # 03
-## SOCIAL MEDIA INFOGRAPHICS
+## NURSEALERT
 
-### Turning Information Into Visual Communication
+### Digital Early Warning System for Early Recognition of Patient Deterioration
 
-For this activity, I created an infographic focusing on **burnout and students' workload**.
+For this activity, I developed **NurseAlert**, a proposed digital early warning system designed to support nurses in recognizing patient deterioration earlier.
 
-The project presents information about burnout, its contributing factors and effects, and practical strategies for managing workload and study time.
+The concept focuses on organizing patient vital signs and identifying concerning changes that may require timely nursing attention.
 
 ### THE INFOGRAPHIC
 
 <div align="center">
 
-<img src="./Activity%203/infographic.png" width="800">
-
-<br><br>
-
-**[ VIEW ORIGINAL PDF → ](./Activity%203/Infographic%20Poster%20%281%29.pdf)**
+<img src="./Activity%203/Infographic%20Poster.png" width="800">
 
 </div>
 
-### THE CONCEPT
+### THE PROBLEM
 
-The central concept of the infographic is the relationship between **workload and rest**.
+Nurses monitor multiple patients and several vital signs throughout their shift. With multiple pieces of information to assess, important changes in a patient's condition may be difficult to recognize quickly.
 
-Students manage multiple academic responsibilities, deadlines, and tasks. When workload becomes excessive while rest becomes insufficient, burnout can become a concern.
+NurseAlert was designed as a digital solution that organizes patient vital signs and helps identify concerning changes.
 
-The infographic communicates this relationship through the idea:
+### HOW NURSEALERT WORKS
 
-> **WORKLOAD > REST = BURNOUT**
+The proposed system follows a simple process:
 
-### INFORMATION & MESSAGE
+**01 · ENTER VITAL SIGNS**
 
-The infographic presents several factors associated with burnout, including:
+Patient vital signs are entered into the system.
 
-- Unmanageable workloads
-- Unfair treatment
-- Too much work and not enough time
-- Lack of sleep
+**02 · ORGANIZE PATIENT DATA**
 
-It also presents possible effects such as:
+The information is organized so that patient data can be reviewed more efficiently.
 
-- Overfatigue
-- Procrastination
-- Cognitive changes
-- Changes in diet
+**03 · CALCULATE EARLY WARNING SCORE**
 
-To address these concerns, the infographic presents strategies such as scheduling, performance tracking, workload sheets, the Pomodoro Technique, and taking short breaks.
+The system calculates an early warning score based on the entered information.
+
+**04 · IDENTIFY CONCERNING CHANGES**
+
+The system helps identify changes that may require attention.
+
+**05 · ALERT THE NURSE**
+
+A timely alert notifies the nurse when concerning changes are identified.
+
+**06 · REASSESS THE PATIENT**
+
+The nurse reassesses the patient and determines the appropriate response.
+
+### WHAT DOES NURSEALERT MONITOR?
+
+| Vital Sign |
+|:---|
+| Temperature |
+| Heart Rate |
+| Respiratory Rate |
+| Blood Pressure |
+| SpO₂ |
+
+### EXPECTED BENEFITS
+
+- **Organized Data**
+- **Easy Trend Monitoring**
+- **Timely Alerts**
+- **Saves Monitoring Time**
+- **Supports Patient Safety**
 
 ### DESIGN APPROACH
 
-I organized the information into distinct sections so that the viewer could move through the topic in a logical order.
+I designed the infographic to communicate the NurseAlert concept in a clear and sequential way.
 
-Rather than presenting all of the information as one large block of text, I separated the content into recognizable categories. This made the main ideas easier to identify and helped maintain readability.
+The information begins with the problem, introduces NurseAlert as the proposed solution, explains how the system works, identifies the vital signs being monitored, and ends with the potential benefits.
 
-Visual hierarchy was also important in determining which information needed to stand out and which information could remain secondary.
+I used this progression so that the viewer could understand **why the system is needed, what it does, how it works, and how it could support nursing practice**.
 
 ### CREATIVE PROCESS
 
-I began by identifying **student burnout and workload** as the central topic. I then selected the information that would be most relevant to students and organized it into key sections.
+I began by identifying a problem that nurses may encounter when monitoring multiple patients and several vital signs. I then developed the concept of a digital early warning system that could organize this information and help identify concerning changes.
 
-After planning the content, I transformed the information into an infographic format. I considered how the placement, hierarchy, and amount of text could affect the viewer's ability to understand the message quickly.
+After establishing the concept, I mapped out the system's workflow from entering vital signs to reassessing the patient. I then organized these steps into an infographic format and added the monitored vital signs and proposed benefits.
 
-Through this activity, I learned that effective infographic design requires both **research and creativity**. Information must be carefully selected, simplified, organized, and presented with the audience in mind.
-
----
+Through this activity, I learned how digital technology can be used to communicate a proposed solution to a real-world problem. I also learned that an effective infographic needs to present information in a logical sequence so that the audience can understand the concept quickly.
 
 # WHAT THIS PORTFOLIO TAUGHT ME
 
