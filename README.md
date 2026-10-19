@@ -195,6 +195,38 @@ After establishing the concept, I mapped out the system's workflow from entering
 
 Through this activity, I learned how digital technology can be used to communicate a proposed solution to a real-world problem. I also learned that an effective infographic needs to present information in a logical sequence so that the audience can understand the concept quickly.
 
+04
+
+GOOGLE DOCS
+
+Group 5 · Midterm Presentation
+
+For this group presentation, we explored Google Docs as a digital tool for creating, editing, organizing, and collaborating on documents.
+
+Our presentation discussed its features, including document formatting, headings, tables, images, links, sharing permissions, comments, suggestion mode, version history, and real-time collaboration.
+
+PRESENTATION SLIDES
+
+View the Group 5 Google Docs Presentation (PDF)
+
+KEY LEARNINGS
+
+Document Organization: Using headings and document outlines to structure information.
+
+Collaboration: Sharing documents and working with others through comments and suggestions.
+
+Accessibility: Accessing and editing documents online.
+
+Version History: Reviewing previous changes and tracking edits.
+
+Responsible Technology Use: Understanding privacy and the responsible use of AI-powered features.
+
+REFLECTION
+
+This activity helped me understand how Google Docs can support both individual work and group collaboration. I learned that digital tools are not only useful for writing documents but also for organizing information, communicating ideas, and working efficiently with others.
+
+Through our group presentation, I gained a better understanding of how Google Docs features can make document creation and collaboration more organized and accessible.
+
 # WHAT THIS PORTFOLIO TAUGHT ME
 
 These activities helped me understand that **digital design is a form of communication, not simply decoration**.
